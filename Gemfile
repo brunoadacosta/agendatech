@@ -1,4 +1,4 @@
-source :rubygems
+source 'http://rubygems.org'
 gem "mysql2"
 gem 'rails', '3.2.12'
 gem "paperclip"
